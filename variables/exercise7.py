@@ -1,10 +1,5 @@
-multi_line_string = """
-Hello,
-It is a
-multiple line
-string
-"""
+"""Hi,
+my name is
+John Doe"""
 
-string = "a normal string with double quotes"
-
-string2 = 'another normal string with single quotes'
+'python'
