@@ -1,6 +1,11 @@
-a = 32
-b = 'string'
+a = 12
+b = 'Hello'
+print(a, b)
+
 temp = a
 a = b
 b = temp
-print (a,b)
+
+del temp
+
+print(a,b)
